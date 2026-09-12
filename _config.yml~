@@ -1,7 +1,7 @@
 title: Saikat's Notebook
 description: Ideas on science, mathematics, computing, and everything worth thinking about.
-url: ""
-baseurl: ""
+url: "https://voyagerdrift72.github.io"
+baseurl: "/saikat"
 
 markdown: kramdown
 highlighter: rouge
